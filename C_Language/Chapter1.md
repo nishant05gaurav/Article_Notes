@@ -53,4 +53,3 @@
 - It takes value until we press enter
 - we use **&** with scanf b/c it is a predefined function that cannot access the value of the variable of other functions
 - predominantly _pointer variable_
----
